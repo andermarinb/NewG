@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewG</string>
+    <string name="login_titule">Gifthem</string>
+    <string name="login_glg">Login con Google</string>
+</resources>
